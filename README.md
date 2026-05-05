@@ -6,9 +6,9 @@ RageBlocker is an aggressive Android app that monitors your app usage and blocks
 
 ## � Demo Video
 
-Watch the demo on X:
+[![Watch the RageBlocker demo on X](https://via.placeholder.com/720x400.png?text=Watch+Demo+Video+on+X)](https://x.com/SelfdotInit/status/2027087556714828152/video/1)
 
-[https://x.com/SelfdotInit/status/2027087556714828152/video/1](https://x.com/SelfdotInit/status/2027087556714828152/video/1)
+[Watch the RageBlocker demo on X](https://x.com/SelfdotInit/status/2027087556714828152/video/1)
 
 ## �🎯 Core Features
 
