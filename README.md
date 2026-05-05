@@ -4,7 +4,13 @@
 
 RageBlocker is an aggressive Android app that monitors your app usage and blocks you with full-screen shame overlays when you exceed your daily time limits.
 
-## 🎯 Core Features
+## � Demo Video
+
+Watch the demo on X:
+
+[https://x.com/SelfdotInit/status/2027087556714828152/video/1](https://x.com/SelfdotInit/status/2027087556714828152/video/1)
+
+## �🎯 Core Features
 
 - **Real-time Usage Monitoring**: Uses `UsageStatsManager` to track app usage every 10 seconds
 - **Aggressive Blocking**: Full-screen overlay with animated red text that shames you
