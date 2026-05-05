@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RageBlocker</string>
+    <string name="app_selection_title">Select Apps to Block</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="stop_monitoring">Stop Monitoring</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="usage_stats_permission">Please grant Usage Stats permission</string>
+    <string name="overlay_permission">Please grant Overlay permission</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">I\'M DONE</string>
+    <string name="rage_message_1">THIS IS WHY YOUR LIFE IS STUCK.</string>
+    <string name="rage_message_2">CLOSE THIS NOW.</string>
+    <string name="rage_message_3">YOUR ADDICTION IS SHOWING.</string>
+    <string name="rage_message_4">IS THIS REALLY HOW YOU WANT TO LIVE?</string>
+    <string name="rage_message_5">GO OUTSIDE. TOUCH GRASS.</string>
+    <string name="rage_message_6">YOUR FUTURE SELF HATES YOU.</string>
+    <string name="rage_message_7">SCROLLING YOUR LIFE AWAY.</string>
+    <string name="rage_message_8">WAKE UP. THIS IS PATHETIC.</string>
+    <string name="rage_message_9">PUT THE PHONE DOWN.</string>
+    <string name="rage_message_10">YOU\'RE BETTER THAN THIS.</string>
+    <string name="rage_message_11">STOP WASTING YOUR LIFE.</string>
+    <string name="rage_message_12">DO SOMETHING PRODUCTIVE.</string>
+    <string name="notification_channel_name">RageBlocker Monitoring</string>
+    <string name="notification_channel_description">Monitors and blocks selected apps</string>
+    <string name="monitoring_active">Monitoring active for %d apps</string>
+    <string name="battery_optimization_title">Disable Battery Optimization</string>
+    <string name="battery_optimization_message">Please disable battery optimization for reliable monitoring</string>
+    <string name="no_apps_selected">Please select at least one app to monitor</string>
+</resources>

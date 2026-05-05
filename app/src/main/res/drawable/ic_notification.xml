@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Small lightning bolt for notification -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M12,2L6,13L11,13L9,22L18,11L13,11L15,2Z" />
+</vector>
